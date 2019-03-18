@@ -6,3 +6,5 @@ A base for my some note and resources.
 完成了对印象笔记中毕业设计相关文档的备份。
 
 创建了2019-拂晓库，并加入测试文件。
+
+测试了与bear的联动。
